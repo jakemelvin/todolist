@@ -54,7 +54,7 @@ POST	/create	Créer une nouvelle tâche
 PUT	/update?taskId={id}	Mettre à jour une tâche existante
 DELETE	/delete?taskId={id}	Supprimer une tâche
 
-
+Lien du Swagger: http://localhost:8080/swagger-ui/index.html#/
 
 Ce README inclut :
 1. Les instructions d'installation et configuration
